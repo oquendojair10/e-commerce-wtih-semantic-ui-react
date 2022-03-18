@@ -1,0 +1,151 @@
+{
+  "bicycles" : [ {
+    "bicycleId" : 0,
+    "imageBicycle" : "https://1.bp.blogspot.com/-pPbJv1754g8/XNEptafJu3I/AAAAAAAA2JU/CF_awN1ae2AEaQ9e9oahcvC2z1XUIOJ8ACEwYBhgL/s1600/dogma-12-osium-white-436.jpg",
+    "model" : "Pinarello F12",
+    "price" : "13.109,853",
+    "quantity" : 8
+  }, {
+    "bicycleId" : 1,
+    "imageBicycle" : "https://www.colnago.com/wp-content/uploads/2019/06/Colnago-V3Rs-frozen-blue-RC19-laterale-archivio-800x560.jpg",
+    "model" : "Colnago C64",
+    "price" : "10.254,125",
+    "quantity" : 5
+  }, {
+    "bicycleId" : 2,
+    "imageBicycle" : "https://i.pinimg.com/originals/bb/80/f7/bb80f77d467438e64656d5fe5c028501.jpg",
+    "model" : "Sworks Venge",
+    "price" : "12.859,879",
+    "quantity" : 6
+  }, {
+    "bicycleId" : 3,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/AG2R-Citroen-BMC-Team-Teammachine-SLR-01-649x420.jpg",
+    "model" : "BMC Teammachine SLR01",
+    "price" : "15.289,579",
+    "quantity" : 5
+  }, {
+    "bicycleId" : 4,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Astana-Wilier-Filante-649x420.jpg",
+    "model" : "Wilier Zero SLR",
+    "price" : "9.560,753",
+    "quantity" : 8
+  } 
+  , {
+    "bicycleId" : 5,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Bahrain-Victorious-Merida-Reacto-649x420.jpg",
+    "model" : "Merida Reacto",
+    "price" : "10.660,78",
+    "quantity" : 3
+  }, {
+    "bicycleId" : 6,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Bora-Hansgrohe-Specialized-S-Works-Shiv-TT.jpg",
+    "model" : "Specialized S-Works Tarmac SL7",
+    "price" : "8.951,45",
+    "quantity" : 6
+  } 
+  , {
+    "bicycleId" : 7,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Cofidis-De-Rosa-Merak.jpg",
+    "model" : "De Rosa Merak",
+    "price" : "4.200,89",
+    "quantity" : 5
+  }, {
+    "bicycleId" : 8,
+    "imageBicycle" : "https://static.turbosquid.com/Preview/2020/04/14__13_41_29/1.jpg69FF9DE9-6FD5-4D5C-B28F-A75EBFCE5560Large.jpg",
+    "model" : "Cannondale SuperSix Evo",
+    "price" : "15.234,87",
+    "quantity" : 4
+  } 
+  , {
+    "bicycleId" : 9,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Groupama-FDJ-Lapierre-Aerostorm-649x420.jpg ",
+    "model" : "Lapierre Aircode",
+    "price" : "9.554,10",
+    "quantity" : 9
+  }, {
+    "bicycleId" : 10,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Ineos-Grenadiers-Pinarello-Dogma-F12-649x420.jpg",
+    "model" : "Pinarello Dogma F",
+    "price" : "18.869,78",
+    "quantity" : 6
+  } 
+  , {
+    "bicycleId" : 11,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Intermarche-Wanty-Gobert-Materiaux-Cube-Aerium-C68-649x420.jpg",
+    "model" : "Cube Litening C:68X",
+    "price" : "6.254,65",
+    "quantity" : 2
+  }, {
+    "bicycleId" : 12,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Israel-Premier-Tech-Factor-OSTRO-VAM.jpg",
+    "model" : "Factor OSTRO VAM, O2 VAM",
+    "price" : "19.687,46",
+    "quantity" : 3
+  } 
+  , {
+    "bicycleId" : 13,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Lotto-Soudal-Ridley-Noah-Fast-649x420.jpg",
+    "model" : "Ridley Helium",
+    "price" : "5.268,13",
+    "quantity" : 8
+  }, {
+    "bicycleId" : 14,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Movistar-Team-Canyon-Aeroad-CFR-649x420.jpg",
+    "model" : "Canyon Aeroad CFR",
+    "price" : "18.697,12",
+    "quantity" : 4
+  } 
+  , {
+    "bicycleId" : 15,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Quick-Step-Alpha-Vinyl-Specialized-Tarmac-SL7-649x420.jpg",
+    "model" : "Specialized S-Works Tarmac SL7, Specialized S-Works Shiv TT",
+    "price" : "15.897,132",
+    "quantity" : 5
+  }, {
+    "bicycleId" : 16,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Giant-Propel-Advanced-SL-Disc-1-649x420.jpg",
+    "model" : "Giant TCR, Propel, Trinity (TT)",
+    "price" : "13.985,123",
+    "quantity" : 6
+  } 
+  , {
+    "bicycleId" : 17,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Team-DSM-Scott-Addict-649x420.jpg",
+    "model" : "Scott Addict RC",
+    "price" : "10.666,59",
+    "quantity" : 7
+  }, {
+    "bicycleId" : 18,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Jumbo-Visma-Cervelo-Caledonia-649x420.jpg",
+    "model" : "Cervélo S5, R5",
+    "price" : "9.058,87",
+    "quantity" : 10
+  } 
+  , {
+    "bicycleId" : 19,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Trek-Segafredo-Trek-Domane-649x420.jpg",
+    "model" : "Trek Madone, Emonda, Domane, Speed Concept",
+    "price" : "9.658,58",
+    "quantity" : 4
+  }, {
+    "bicycleId" : 20,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/UAE-Team-Emirates-Colnago-Concept-649x420.jpg",
+    "model" : "Colnago V3Rs, C64, K.One",
+    "price" : "8.858,879",
+    "quantity" : 9
+  } 
+  , {
+    "bicycleId" : 21,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/Bardiani-CSF-Faizane-Cipollini-Dolomia-1-649x420.jpg",
+    "model" : "Cipollini Dolomia",
+    "price" : "9.250,125",
+    "quantity" : 3
+  }, {
+    "bicycleId" : 22,
+    "imageBicycle" : "https://noticiclismo.com/wp-content/uploads/2022/01/BB-Hotels-Revelator-Alto-649x420.jpg",
+    "model" : "KTM Solus",
+    "price" : "15.985,12",
+    "quantity" : 6
+  } 
+]
+}
